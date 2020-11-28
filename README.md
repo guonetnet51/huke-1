@@ -17,6 +17,8 @@ B站视频介绍：https://www.bilibili.com/video/BV1Ty4y1879F
 1.输入Cookie
 
 2.输入网址
+
+3.点击生成的bat 文件
 	
 建议先解析完再下载，防止部分课程爬取错误
 
