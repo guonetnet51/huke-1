@@ -8,11 +8,9 @@
 
 ### 更新地址
 
-lanzous: https://aohua.lanzoui.com/b00u073yf
 
 github: https://github.com/Nchujx/huke/releases
 
-B站视频介绍：https://www.bilibili.com/video/BV1Ty4y1879F
 
 ### 注意
 
@@ -22,7 +20,7 @@ B站视频介绍：https://www.bilibili.com/video/BV1Ty4y1879F
 
 ### 下载方法：
 
-1.输入Cookie
+1.输入Cookie (找Cookie方法 ： https://jingyan.baidu.com/article/ae97a646842878fbfd461dc1.html)
 
 2.输入网址
 
@@ -33,7 +31,9 @@ B站视频介绍：https://www.bilibili.com/video/BV1Ty4y1879F
 
 2021-02-05
 
-软件已无大问题，该软件不再更新，有问题在github或者加我qq反馈吧
+软件已无大问题，该软件不再更新，有问题在github反馈
 
-QQ：1203083157
+
+
+
 
